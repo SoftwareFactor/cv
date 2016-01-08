@@ -118,4 +118,4 @@ Frontend of the application has been implemented using WPF and MVVM pattern.
 
 ## Contact Information
 **Email:** karolis@mediapark.lt  
-**Cell phone:** +37061851463  
+**Cell phone:** +370 618 51463  
