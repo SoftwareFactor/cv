@@ -16,8 +16,8 @@ More detailed list of used technologies, frameworks and practices:
 **Cloud:** Windows Azure, Amazon AWS  
 **Project Management:** Agile software development (Kanban, Scrum).  
 
-## Education
-### ISM University of Management and Economics
+### Education
+#### ISM University of Management and Economics
 **2007-2011**  
 Bachelor of Economics studies
 ## Certifications
@@ -25,13 +25,13 @@ Bachelor of Economics studies
 **2014**  
 Microsoft, License E930-7584
 ### Programming in C# Specialist
-**2013** 
+**2013**  
 Microsoft, License E277-8174
 ### Programming in HTML5 with JavaScript and CSS3 Specialist
-**2013** 
+**2013**  
 Microsoft, License E124-9423
 ### Microsoft Certified Professional (MCP)
-**2013** 
+**2013**  
 Microsoft, License E124-9428
 ## Work Experience
 ### Partner at Mediapark, UAB
