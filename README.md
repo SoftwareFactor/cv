@@ -77,7 +77,7 @@ Online platform that allows merchants to generate invoices and get paid in virtu
 * We thoroughly analyzed attack surface and secured the system according to the best practices, using multiple layers of security where possible.
 
 ### Brokerage business management system
-**Year:** 2015  
+**Year:** 2014  
 
 We built a system that automates multiple aspects of brokerage business management. It consists of self-service areas for both sales persons and clients. The system automates creation of trading accounts, automatically monitors all trading activity and calculates commissions that need to be paid to both introducing brokers and affiliates.
 
@@ -101,7 +101,7 @@ We built a system that automates multiple aspects of brokerage business manageme
 * With the help of our UX specialists, we implemented a feature rich and easy to use member area for introducing brokers. They can provide their clients with individual spread and commission offerings or special bonuses.
 
 ### Algorithmic trading platform
-**Year:** 2015  
+**Year:** 2013  
 
 This is a distributed trading platform that consists of multiple nodes. Each node subscribes to marked data and executes custom trading logic. Orders to buy or sell securities are sent to liquidity providers via FIX protocol. Messaging architecture has been implemented using ZeroMQ queues which have a throughput in the range of 100.000s of messages per second.
 
