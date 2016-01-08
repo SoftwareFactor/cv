@@ -76,12 +76,45 @@ Online platform that allows merchants to generate invoices and get paid in virtu
 * Merchant self-service area was developed from the ground up using AngularJS. It provides merchants with basic control of account as well as analytics, charts and real time notifications. All this functionality works smoothly on any device, including tablets and mobile phones.
 * We thoroughly analyzed attack surface and secured the system according to the best practices, using multiple layers of security where possible.
 
-### Project name
+### Brokerage business management system
 **Year:** 2015  
-Description.
-### Project name
+
+We built a system that automates multiple aspects of brokerage business management. It consists of self-service areas for both sales persons and clients. The system automates creation of trading accounts, automatically monitors all trading activity and calculates commissions that need to be paid to both introducing brokers and affiliates.
+
+**My responsibilities:**
+
+* Communication with the client
+* Requirements analysis
+* Architecture deicisions
+* Technical team leadership
+* Hands-on software development
+* Quality assurance
+
+**Challenges:**
+
+* Each new order executed by a trader starts a chain of events that result in allocation of commissions for sales persons, updating of multiple account balances, notifications being sent to third party services. A failure in any of those operations might result in client account balances being corrupted.
+* There was a requirement to make introducing brokers feel like business owners. They needed to have full control over every aspect of their business.
+
+**Solution:**
+
+* We chose an architecture that consists of ASP.NET MVC web application and a service layer implemented using NServiceBus messaging framework. The architecture of service layer makes it possible to closely monitor critical business processes, automatically retry failed operations, or notify administrators in case of a critical fault.
+* With the help of our UX specialists, we implemented a feature rich and easy to use member area for introducing brokers. They can provide their clients with individual spread and commission offerings or special bonuses.
+
+### Algorithmic trading platform
 **Year:** 2015  
-Description.
+
+This is a distributed trading platform that consists of multiple nodes. Each node subscribes to marked data and executes custom trading logic. Orders to buy or sell securities are sent to liquidity providers via FIX protocol. Messaging architecture has been implemented using ZeroMQ queues which have a throughput in the range of 100.000s of messages per second.
+
+Frontend of the application has been implemented using WPF and MVVM pattern.
+
+**My responsibilities:**
+
+* Requirements analysis
+* Architecture design
+* Team leadership
+* Making sure best practices are followed
+* Hands-on software development
+
 ## Contact Information
 **Email:** karolis@mediapark.lt  
 **Cell phone:** +37061851463  
