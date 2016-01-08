@@ -50,6 +50,25 @@ Microsoft, License E124-9428
 **Years:** 2005 - 2011  
 
 ## Top Projects
+#### Warehouse management system for a distribution company
+
+**My responsibilities:**
+
+* Communication with the client
+* Requirements analysis
+* Architecture decisions
+* Technical team leadership
+* Quality assurance
+
+**Challenges:**
+
+* Many processes happening simultaneously had to fit into a single system: order processing, generation of orders to suppliers, unloading of incoming goods, distribution and shipping.
+
+**Solution:**
+
+* Warehouse workers scan goods using portable scanner devices (running Android OS). This allows the system to keep track of all goods in the warehouse.
+* Administration area was developed using AngularJS framework.
+
 #### Virtual currency payment processing platform
 **Years:** 2014 - 2015  
 
