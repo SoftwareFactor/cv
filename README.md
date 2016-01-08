@@ -16,7 +16,7 @@ More detailed list of used technologies, frameworks and practices:
 **Cloud:** Windows Azure, Amazon AWS  
 **Project Management:** Agile software development (Kanban, Scrum).  
 
-### Education
+## Education
 #### ISM University of Management and Economics
 **2007-2011**  
 Bachelor of Economics studies
