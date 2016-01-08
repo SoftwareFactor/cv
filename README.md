@@ -36,6 +36,7 @@ Microsoft, License E124-9428
 ## Work Experience
 #### Partner at Mediapark, UAB
 **Years:** 2011 - 2016  
+
 Main responsibilities:
 
 * Leading a team of .NET developers  
