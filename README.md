@@ -25,17 +25,17 @@ Bachelor of Economics studies
 **Years:** 2014 - now  
 Microsoft, License E930-7584
 #### Programming in C# Specialist
-**2013**  
+**Years:** 2013 - now  
 Microsoft, License E277-8174
 #### Programming in HTML5 with JavaScript and CSS3 Specialist
-**2013**  
+**Years:** 2013 - now  
 Microsoft, License E124-9423
 #### Microsoft Certified Professional (MCP)
-**2013**  
+**Years:** 2013 - now  
 Microsoft, License E124-9428
 ## Work Experience
 #### Partner at Mediapark, UAB
-**2011-2016**  
+**Years:** 2011 - 2016  
 Main responsibilities:
 
 * Leading a team of .NET developers  
@@ -46,16 +46,16 @@ Main responsibilities:
 * Hands-on software development  
 
 #### Freelance
-**2005-2011**  
+**Years:** 2005 - 2011  
 ## Top Projects
 ### Project name
-**2015**  
+**Year:** 2015  
 Description.
 ### Project name
-**2015**  
+**Year:** 2015  
 Description.
 ### Project name
-**2015**  
+**Year:** 2015  
 Description.
 ## Contact Information
 **Email:** karolis@mediapark.lt  
