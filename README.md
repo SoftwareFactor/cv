@@ -41,7 +41,7 @@ Microsoft, License E124-9428
 
 * Leading a team of .NET developers  
 * Identifying client needs  
-* Estimating project cost and timeframe requirements  
+* Estimating project cost and time-frame requirements  
 * System architecture design  
 * Making sure best practices are followed  
 * Hands-on software development  
@@ -129,7 +129,7 @@ We built a system that automates multiple aspects of brokerage business manageme
 
 * Communication with the client
 * Requirements analysis
-* Architecture deicisions
+* Architecture decisions
 * Technical team leadership
 * Hands-on software development
 * Quality assurance
