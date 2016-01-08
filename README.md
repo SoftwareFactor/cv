@@ -22,7 +22,7 @@ More detailed list of used technologies, frameworks and practices:
 Bachelor of Economics studies
 ## Certifications
 #### Microsoft Certified Solutions Developer: Web Applications (MCSD)
-**2014**  
+**Years:** 2014-now  
 Microsoft, License E930-7584
 #### Programming in C# Specialist
 **2013**  
