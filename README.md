@@ -18,7 +18,7 @@ More detailed list of used technologies, frameworks and practices:
 
 ## Education
 #### ISM University of Management and Economics
-**2007-2011**  
+**Years:** 2007-2011  
 Bachelor of Economics studies
 ## Certifications
 #### Microsoft Certified Solutions Developer: Web Applications (MCSD)
