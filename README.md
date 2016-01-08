@@ -50,6 +50,29 @@ Microsoft, License E124-9428
 **Years:** 2005 - 2011  
 
 ## Top Projects
+#### Number management system for communications industry regulator
+**Year:** 2015  
+
+System provides functionality for administration of issued phone numbers. 
+
+**My responsibilities:**
+
+* Project management
+* Requirements analysis
+* Architecture decisions
+* Hands-on software development
+* Quality assurance
+
+**Challenges:**
+
+* There was a requirement to import large quantities of data from a legacy sistem.
+* Some of the use cases required processing of large quantities of data in short periods of time.
+
+**Solution:**
+
+* SQL Server was chosen for persistence.
+* Administration area was developed using AngularJS framework.
+
 #### Warehouse management system for a distribution company
 **Year:** 2015  
 
