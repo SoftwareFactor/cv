@@ -32,12 +32,13 @@ Microsoft, License E124-9428
 ### [2011-2016] Partner at Mediapark, UAB
 Main responsibilities:
 
-* Leading a team of .NET developers
-* Identifying client needs
-* Estimating project cost and timeframe requirements
-* System architecture design
-* Making sure best practices are followed
-* Hands-on software development
+* Leading a team of .NET developers  
+* Identifying client needs  
+* Estimating project cost and timeframe requirements  
+* System architecture design  
+* Making sure best practices are followed  
+* Hands-on software development  
+
 ### [2005-2011] Freelance
 ## Top Projects
 ### [2015] Project name
@@ -47,5 +48,5 @@ Description.
 ### [2015] Project name
 Description.
 ## Contact Information
-**Email:** karolis@mediapark.lt
-**Cell phone:** +37061851463	
+**Email:** karolis@mediapark.lt  
+**Cell phone:** +37061851463  
