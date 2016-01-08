@@ -21,16 +21,21 @@ More detailed list of used technologies, frameworks and practices:
 **2007-2011**  
 Bachelor of Economics studies
 ## Certifications
-### [2014] Microsoft Certified Solutions Developer: Web Applications (MCSD)
+### Microsoft Certified Solutions Developer: Web Applications (MCSD)
+**2014**  
 Microsoft, License E930-7584
-### [2013] Programming in C# Specialist
+### Programming in C# Specialist
+**2013** 
 Microsoft, License E277-8174
-### [2013] Programming in HTML5 with JavaScript and CSS3 Specialist
+### Programming in HTML5 with JavaScript and CSS3 Specialist
+**2013** 
 Microsoft, License E124-9423
-### [2013] Microsoft Certified Professional (MCP)
+### Microsoft Certified Professional (MCP)
+**2013** 
 Microsoft, License E124-9428
 ## Work Experience
-### [2011-2016] Partner at Mediapark, UAB
+### Partner at Mediapark, UAB
+**2011-2016**  
 Main responsibilities:
 
 * Leading a team of .NET developers  
