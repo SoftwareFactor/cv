@@ -37,7 +37,7 @@ Microsoft, License E124-9428
 #### Partner at Mediapark, UAB
 **Years:** 2011 - 2016  
 
-Main responsibilities:
+**Main responsibilities:**
 
 * Leading a team of .NET developers  
 * Identifying client needs  
@@ -50,7 +50,7 @@ Main responsibilities:
 **Years:** 2005 - 2011  
 ## Top Projects
 ### Project name
-**Years:** 2014-2015  
+**Years:** 2014 - 2015  
 
 Online platform that allows merchants to generate invoices and get paid in virtual currencies (Bitcoin, Litecoin and Ripple).
 
@@ -74,7 +74,7 @@ Online platform that allows merchants to generate invoices and get paid in virtu
 
 * We built the system on NServiceBus messaging framework. The architecture ensures that all processes are monitored and failed operations are automatically retried. In cases where automatic recovery is not possible, administrators are notified.
 * Merchant self-service area was developed from the ground up using AngularJS. It provides merchants with basic control of account as well as analytics, charts and real time notifications. All this functionality works smoothly on any device, including tablets and mobile phones.
-* We thoroughly analyzed attack surface and secured the system according to the best practices, using multiple layers of security where possible.
+* We thoroughly analyzed attack surface and secured the system according to the best practices, using multiple layers of security where possible.  
 ### Project name
 **Year:** 2015  
 Description.
