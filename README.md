@@ -21,20 +21,20 @@ More detailed list of used technologies, frameworks and practices:
 **2007-2011**  
 Bachelor of Economics studies
 ## Certifications
-### Microsoft Certified Solutions Developer: Web Applications (MCSD)
+#### Microsoft Certified Solutions Developer: Web Applications (MCSD)
 **2014**  
 Microsoft, License E930-7584
-### Programming in C# Specialist
+#### Programming in C# Specialist
 **2013**  
 Microsoft, License E277-8174
-### Programming in HTML5 with JavaScript and CSS3 Specialist
+#### Programming in HTML5 with JavaScript and CSS3 Specialist
 **2013**  
 Microsoft, License E124-9423
-### Microsoft Certified Professional (MCP)
+#### Microsoft Certified Professional (MCP)
 **2013**  
 Microsoft, License E124-9428
 ## Work Experience
-### Partner at Mediapark, UAB
+#### Partner at Mediapark, UAB
 **2011-2016**  
 Main responsibilities:
 
@@ -45,13 +45,17 @@ Main responsibilities:
 * Making sure best practices are followed  
 * Hands-on software development  
 
-### [2005-2011] Freelance
+#### Freelance
+**2005-2011**  
 ## Top Projects
-### [2015] Project name
+### Project name
+**2015**  
 Description.
-### [2015] Project name
+### Project name
+**2015**  
 Description.
-### [2015] Project name
+### Project name
+**2015**  
 Description.
 ## Contact Information
 **Email:** karolis@mediapark.lt  
