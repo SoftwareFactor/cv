@@ -50,8 +50,31 @@ Main responsibilities:
 **Years:** 2005 - 2011  
 ## Top Projects
 ### Project name
-**Year:** 2015  
-Description.
+**Years:** 2014-2015  
+
+Online platform that allows merchants to generate invoices and get paid in virtual currencies (Bitcoin, Litecoin and Ripple).
+
+**My responsibilities:**
+
+* Communication with the client
+* Requirements analysis
+* Architecture decisions
+* Technical team leadership
+* Hands-on software development
+* Quality assurance
+
+**Challenges:**
+
+* Each paid invoice starts an invisible chain of long running processes (currency conversions, hedging, transfer of funds to merchants, allocation of bonuses for affiliates, various notifications).
+* We had to make sure that whole process is robust and can withstand unreliable network connections, server crashes and temporary issues with third party services.
+* There was a requirement for a highly dynamic and feature rich merchant self-service area.
+* Security of the system was a priority. The platform handles clients' money, so any security breach would be a disaster.
+
+**Solution:**
+
+* We built the system on NServiceBus messaging framework. The architecture ensures that all processes are monitored and failed operations are automatically retried. In cases where automatic recovery is not possible, administrators are notified.
+* Merchant self-service area was developed from the ground up using AngularJS. It provides merchants with basic control of account as well as analytics, charts and real time notifications. All this functionality works smoothly on any device, including tablets and mobile phones.
+* We thoroughly analyzed attack surface and secured the system according to the best practices, using multiple layers of security where possible.
 ### Project name
 **Year:** 2015  
 Description.
