@@ -51,6 +51,7 @@ Microsoft, License E124-9428
 
 ## Top Projects
 #### Warehouse management system for a distribution company
+**Year:** 2015  
 
 **My responsibilities:**
 
