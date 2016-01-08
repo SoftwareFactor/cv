@@ -18,11 +18,11 @@ More detailed list of used technologies, frameworks and practices:
 
 ## Education
 #### ISM University of Management and Economics
-**Years:** 2007-2011  
+**Years:** 2007 - 2011  
 Bachelor of Economics studies
 ## Certifications
 #### Microsoft Certified Solutions Developer: Web Applications (MCSD)
-**Years:** 2014-now  
+**Years:** 2014 - now  
 Microsoft, License E930-7584
 #### Programming in C# Specialist
 **2013**  
