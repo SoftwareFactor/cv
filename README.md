@@ -2,7 +2,9 @@ Karolis Petreikis
 ====
 
 ## Overview
-I am a Microsoft Certified Solutions Developer specializing in software architecture planning and development. My expertise includes:
+I am a Microsoft Certified Solutions Developer specializing in technical project management, mainly in retail industry.
+
+My technical expertise includes:
 
 * Service-oriented architecture
 * Distributed architecture
@@ -23,22 +25,28 @@ More detailed list of used technologies, frameworks and practices:
 **Years:** 2007 - 2011  
 Bachelor of Economics studies
 ## Certifications
+#### Microsoft Certified Solutions Associate (MCSA): Web Applications (Charter)
+**Years:** 2016 - present  
+Microsoft, License F810-1225
+#### Microsoft Certified Solutions Developer (MCSD): App Builder (Charter)
+**Years:** 2016 - present  
+Microsoft, License F810-1224
 #### Microsoft Certified Solutions Developer: Web Applications (MCSD)
-**Years:** 2014 - now  
+**Years:** 2014 - present  
 Microsoft, License E930-7584
 #### Programming in C# Specialist
-**Years:** 2013 - now  
+**Years:** 2013 - present  
 Microsoft, License E277-8174
 #### Programming in HTML5 with JavaScript and CSS3 Specialist
-**Years:** 2013 - now  
+**Years:** 2013 - present  
 Microsoft, License E124-9423
 #### Microsoft Certified Professional (MCP)
-**Years:** 2013 - now  
+**Years:** 2013 - present  
 Microsoft, License E124-9428
 
 ## Work Experience
 #### Partner at Mediapark, UAB
-**Years:** 2011 - 2017  
+**Years:** 2011 - present  
 
 **Main responsibilities:**
 
@@ -67,6 +75,7 @@ Microsoft, License E124-9428
 **Challenges:**
 
 * Many processes happening simultaneously had to fit into a single system: order processing, generation of orders to suppliers, unloading of incoming goods, distribution and shipping.
+* Creating universal solution for integration with external systems such as web stores, route optimization solutions, accounting software, etc.
 
 **Solution:**
 
