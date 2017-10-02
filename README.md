@@ -15,8 +15,8 @@ My technical expertise includes:
 More detailed list of used technologies, frameworks and practices:
 
 **Frontend:** HTML, CSS, JavaScript, jQuery.  
-**Backend:** ASP.NET MVC, Web API 2, vNext, WCF, NServiceBus, Multithreading.  
-**Data Access:** Entity Framework, SQL Server, SQL Azure, PostgreSQL.  
+**Backend:** ASP.NET MVC, Web API 2, ASP.NET Core, WCF, NServiceBus.  
+**Data Access:** Dapper, Entity Framework, SQL Server, SQL Azure, PostgreSQL.  
 **Cloud:** Windows Azure, Amazon AWS  
 **Project Management:** Agile software development (Kanban, Scrum).  
 
