@@ -38,7 +38,7 @@ Microsoft, License E124-9428
 
 ## Work Experience
 #### Partner at Mediapark, UAB
-**Years:** 2011 - 2016  
+**Years:** 2011 - 2017  
 
 **Main responsibilities:**
 
@@ -52,7 +52,27 @@ Microsoft, License E124-9428
 #### Freelance
 **Years:** 2005 - 2011  
 
-## Top Projects
+## Recent Projects
+
+#### Warehouse management system for online retailer
+**Years:** 2015 - 2017  
+
+**My responsibilities:**
+
+* Communication with the client
+* Requirements analysis
+* Architecture decisions
+* Technical team leadership
+
+**Challenges:**
+
+* Many processes happening simultaneously had to fit into a single system: order processing, generation of orders to suppliers, unloading of incoming goods, distribution and shipping.
+
+**Solution:**
+
+* Warehouse workers scan goods using portable scanner devices (running Android OS). This allows the system to keep track of all goods in the warehouse.
+* Administration area was developed using AngularJS framework.
+
 #### Number management system for communications industry regulator
 **Year:** 2015  
 
@@ -64,7 +84,6 @@ System provides functionality for administration of issued phone numbers.
 * Requirements analysis
 * Architecture decisions
 * Hands-on software development
-* Quality assurance
 
 **Challenges:**
 
@@ -74,26 +93,6 @@ System provides functionality for administration of issued phone numbers.
 **Solution:**
 
 * SQL Server was chosen for persistence.
-* Administration area was developed using AngularJS framework.
-
-#### Warehouse management system for a distribution company
-**Year:** 2015  
-
-**My responsibilities:**
-
-* Communication with the client
-* Requirements analysis
-* Architecture decisions
-* Technical team leadership
-* Quality assurance
-
-**Challenges:**
-
-* Many processes happening simultaneously had to fit into a single system: order processing, generation of orders to suppliers, unloading of incoming goods, distribution and shipping.
-
-**Solution:**
-
-* Warehouse workers scan goods using portable scanner devices (running Android OS). This allows the system to keep track of all goods in the warehouse.
 * Administration area was developed using AngularJS framework.
 
 #### Virtual currency payment processing platform
@@ -108,7 +107,6 @@ Online platform that allows merchants to generate invoices and get paid in virtu
 * Architecture decisions
 * Technical team leadership
 * Hands-on software development
-* Quality assurance
 
 **Challenges:**
 
@@ -135,7 +133,6 @@ We built a system that automates multiple aspects of brokerage business manageme
 * Architecture decisions
 * Technical team leadership
 * Hands-on software development
-* Quality assurance
 
 **Challenges:**
 
@@ -163,5 +160,5 @@ Frontend of the application has been implemented using WPF and MVVM pattern.
 * Hands-on software development
 
 ## Contact Information
-**Email:** karolis@mediapark.lt  
+**Email:** karolis@mediapark.com  
 **Cell phone:** +370 618 51463  
