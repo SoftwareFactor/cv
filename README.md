@@ -16,7 +16,7 @@ More detailed list of used technologies, frameworks and practices:
 
 **Frontend:** HTML, CSS, JavaScript, jQuery.  
 **Backend:** ASP.NET MVC, Web API 2, ASP.NET Core, WCF, NServiceBus.  
-**Data Access:** Dapper, Entity Framework, SQL Server, SQL Azure, PostgreSQL.  
+**Data Access:** Dapper, Entity Framework, SQL Server, SQL Azure, PostgreSQL, Amazon RDS.  
 **Cloud:** Windows Azure, Amazon AWS  
 **Project Management:** Agile software development (Kanban, Scrum).  
 
