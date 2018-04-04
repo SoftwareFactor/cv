@@ -73,7 +73,7 @@ Microsoft, License E124-9428
 
 **Challenges:**
 
-* The client was a new telecom starting from scratch. We needed to prepare architecture for our self-care app while backend systems were still in development. Some of the API documentation for backend systems was not ready and had to be anticipated in advance.
+* The client was a new telecom starting from scratch. We needed to prepare architecture for self-care app and related web services while backend systems were still in development. Some of the API documentation for backend systems was not ready and had to be anticipated in advance.
 * The app needed to be scalable to handle thousands of online users at peak hours. In addition to that costs needed to be minimized during slow moving time.
 
 **Solution:**
