@@ -8,16 +8,16 @@ My technical expertise includes:
 
 * Service-oriented architecture
 * Distributed architecture
-* Cloud-based solutions (Windows Azure, Amazon AWS)
+* Cloud-based solutions (Microsoft Azure, Amazon AWS)
 * Microsoft .NET Framework and C#
 * Test-driven development
 
 More detailed list of used technologies, frameworks and practices:
 
-**Frontend:** HTML, CSS, JavaScript, jQuery.  
+**Frontend:** HTML, CSS, JavaScript.  
 **Backend:** ASP.NET MVC, Web API 2, ASP.NET Core, WCF, NServiceBus.  
 **Data Access:** Dapper, Entity Framework, SQL Server, SQL Azure, PostgreSQL, Amazon RDS.  
-**Cloud:** Windows Azure, Amazon AWS  
+**Cloud:** Microsoft Azure, Amazon AWS  
 **Project Management:** Agile software development (Kanban, Scrum).  
 
 ## Education
@@ -61,6 +61,25 @@ Microsoft, License E124-9428
 **Years:** 2005 - 2011  
 
 ## Recent Projects
+
+#### Self-care website and mobile applications for a telecom
+**Years:** 2017 - 2018  
+
+**My responsibilities:**
+
+* Requirements analysis
+* Architecture decisions
+* Technical team leadership
+
+**Challenges:**
+
+* The client was a new telecom starting from scratch. We needed to prepare architecture for our self-care app while backend systems were still in development. Some of the API documentation for backend systems was not ready and had to be anticipated in advance.
+* The app needed to be scalable to handle thousands of online users at peak hours. In addition to that costs needed to be minimized during slow moving time.
+
+**Solution:**
+
+* Our team developed API that servers web-based and native mobile self-care apps. It provides simple API for mobile developers to integrate with, while hiding all the complexity of integrating with multiple systems of the telecom.
+* Scalability targets were achieved by deploying backend solution to Microsoft Azure and configuring auto-scaling of web server instances. To reduce pressure on backend systems and on self-care's SQL Azure database, caching strategies were implemented using Azure Redis Cache.
 
 #### Warehouse management system for online retailer
 **Years:** 2015 - 2017  
