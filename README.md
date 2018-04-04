@@ -2,7 +2,7 @@ Karolis Petreikis
 ====
 
 ## Overview
-I am a Microsoft Certified Solutions Developer specializing in technical project management, mainly in retail industry.
+I am a Microsoft Certified Solutions Developer specializing in software architecture planning and development.
 
 My technical expertise includes:
 
