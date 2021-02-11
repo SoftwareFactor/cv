@@ -2,7 +2,7 @@ Karolis Petreikis
 ====
 
 ## Overview
-I am a software solutions architect. My areas of specialization include:
+I am a software solutions architect with over 10 years of hands-on development experience. My areas of specialization include:
 
 * Domain-driven design
 * Service-oriented & modular architecture
