@@ -15,7 +15,7 @@ A more detailed list of currently used technologies, frameworks, and practices:
 **API development:** ASP.NET Core, NServiceBus.  
 **Data access:** Dapper, Entity Framework, SQL Server, SQL Azure, PostgreSQL, MySQL, Amazon RDS, DynamoDB, Redis.  
 **Infrastructure:** Docker, Terraform, Amazon AWS (Elastic Container Service, Lambda, CodeBuild), Microsoft Azure, CircleCI, Linux administration.  
-**Other:** Domain-driven design practices, Test-driven development, Specification by example (Gherkin testing scenarios).
+**Other:** Domain-driven design practices, Test-driven development, Specification by example (using Gherkin testing scenarios).
 
 ## Certifications
 #### Microsoft Certified Solutions Associate (MCSA): Web Applications (Charter)
@@ -27,10 +27,10 @@ Microsoft, License F810-1224
 #### Microsoft Certified Solutions Developer: Web Applications (MCSD)
 **Years:** 2014 - present  
 Microsoft, License E930-7584
-#### Programming in C# Specialist
+#### Microsoft Specialist: Programming in C#
 **Years:** 2013 - present  
 Microsoft, License E277-8174
-#### Programming in HTML5 with JavaScript and CSS3 Specialist
+#### Microsoft Specialist: Programming in HTML5 with JavaScript and CSS3
 **Years:** 2013 - present  
 Microsoft, License E124-9423
 #### Microsoft Certified Professional (MCP)
