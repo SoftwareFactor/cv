@@ -69,7 +69,7 @@ Bachelor of Economics studies
 #### Freelance software developer
 **Years:** 2005 - 2011  
 
-## Recent projects
+## Some of my projects
 
 #### Self-care website and mobile applications for a telecom
 **Years:** 2017 - 2018  
