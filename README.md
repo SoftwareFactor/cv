@@ -216,5 +216,5 @@ The frontend of the application has been implemented using WPF and the MVVM patt
 * Hands-on software development
 
 ## Contact Information
-**Email:** karolis@meritstory.com  
+**Email:** karolis.petreikis@meritstory.com  
 **Cell phone:** +370 618 51463  
