@@ -72,7 +72,7 @@ Bachelor of Economics studies
 ## Some of my projects
 
 #### Self-care website and mobile applications for a telecom
-**Years:** 2017 - 2018  
+**Years:** 2017 - 2019  
 
 **My responsibilities:**
 
