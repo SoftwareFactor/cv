@@ -91,6 +91,24 @@ Bachelor of Economics studies
 * API aggregated information from multiple backend telecom systems and hid all the complexity by providing a simple RESTful interface for mobile app developers to integrate with.
 * We achieved scalability targets by deploying backend solution to Microsoft Azure and configuring auto-scaling of web server instances. Caching strategies were implemented using Azure Redis Cache to reduce the pressure on backend systems and self-care's SQL Azure database.
 
+#### Electric car-sharing service with a mobile app
+**Years:** 2016 - 2019  
+
+**My responsibilities:**
+
+* Requirements analysis
+* Technical project management
+
+**Challenges:**
+
+* We needed to launch backend webservices, admin panel and mobile apps for two platforms on a tight schedule.
+* Integrations were needed to to gather data from various sources, including the fleet of vehicles and charging stations.
+
+**Solution:**
+
+* Our team developed an API for consumption by mobile apps.
+* Integrations were made with automobile fleet control API, credit card payment providers (Braintree and Adyen), accounting software, driver license validation services, etc.
+
 #### Warehouse management system for online retailer
 **Years:** 2015 - 2017  
 
