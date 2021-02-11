@@ -112,7 +112,7 @@ Bachelor of Economics studies
 * We developed an administrative area using the AngularJS framework.
 
 #### Number management system for communications industry regulator
-**Year:** 2015  
+**Year:** 2015 - 2021   
 
 The system provides functionality for the administration of issued phone numbers.  
 
