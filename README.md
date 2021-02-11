@@ -2,28 +2,23 @@ Karolis Petreikis
 ====
 
 ## Overview
-I am a Microsoft Certified Solutions Developer specializing in software architecture planning and development.
+I am a Microsoft Certified Solutions Developer specializing in software solution architecture planning and backend development.
 
 My technical expertise includes:
 
-* Service-oriented architecture
-* Distributed architecture
-* Cloud-based solutions (Microsoft Azure, Amazon AWS)
+* Domain-driven design
+* Service-oriented & modular architecture
+* Infrastructure as code (using Terraform) and cloud-based solutions (mostly on Amazon AWS)
 * Microsoft .NET Framework and C#
 * Test-driven development
 
-More detailed list of used technologies, frameworks and practices:
+More detailed list of currently used technologies, frameworks and practices:
 
-**Frontend:** HTML, CSS, JavaScript.  
-**Backend:** ASP.NET MVC, Web API 2, ASP.NET Core, WCF, NServiceBus.  
-**Data Access:** Dapper, Entity Framework, SQL Server, SQL Azure, PostgreSQL, Amazon RDS.  
-**Cloud:** Microsoft Azure, Amazon AWS  
-**Project Management:** Agile software development (Kanban, Scrum).  
+**Frontend development:** HTML, CSS, JavaScript.  
+**API development:** ASP.NET Core, NServiceBus.  
+**Data access:** Dapper, Entity Framework, SQL Server, SQL Azure, PostgreSQL, MySQL, Amazon RDS, DynamoDB, Redis.  
+**Infrastructure:** Docker, Terraform, Amazon AWS (Elastic Container Service, Lambda, CodeBuild), Microsoft Azure, Linux administration.  
 
-## Education
-#### ISM University of Management and Economics
-**Years:** 2007 - 2011  
-Bachelor of Economics studies
 ## Certifications
 #### Microsoft Certified Solutions Associate (MCSA): Web Applications (Charter)
 **Years:** 2016 - present  
@@ -44,9 +39,16 @@ Microsoft, License E124-9423
 **Years:** 2013 - present  
 Microsoft, License E124-9428
 
-## Work Experience
+## Formal education
+#### ISM University of Management and Economics
+**Years:** 2007 - 2011  
+Bachelor of Economics studies
+
+## Work experience
+#### Co-founder & CTO at MindMerit, UAB
+**Years:** 2020 - present  
 #### Partner at Mediapark, UAB
-**Years:** 2011 - present  
+**Years:** 2011 - 2020  
 
 **Main responsibilities:**
 
@@ -188,5 +190,5 @@ Frontend of the application has been implemented using WPF and MVVM pattern.
 * Hands-on software development
 
 ## Contact Information
-**Email:** karolis@mediapark.com  
+**Email:** karolis@meritstory.com  
 **Cell phone:** +370 618 51463  
