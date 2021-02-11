@@ -101,8 +101,8 @@ Bachelor of Economics studies
 
 **Challenges:**
 
-* We needed to launch backend webservices, admin panel and mobile apps for two platforms on a tight schedule.
-* Integrations were needed to to gather data from various sources, including the fleet of vehicles and charging stations.
+* We needed to launch backend web services, admin panel, and mobile apps for two platforms on a tight schedule.
+* Integrations were needed to gather data from various sources, including the fleet of vehicles and charging stations.
 
 **Solution:**
 
