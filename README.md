@@ -7,9 +7,9 @@ I have been hooked on computers since I started dabbling in various operating sy
 I co-founded [MeritStory](https://www.meritstory.com) with a mission of building a strong cross-functional team focused on self-improvement. We design, develop and manage custom software solutions for our clients while focusing on long-term maintainability and business value.
 
 I personally concentrate on the following areas:
-* Solution design with sustainable architecture (Domain-driven design, modular architecture);
-* DevOps practices and reliable server infrastructure hosted in the cloud (Amazon AWS, Terraform, infrastructure as code);
-* Software development with .NET and the C# programming language.
+* Solution design with sustainable architecture (Domain-driven design, modular architecture)
+* DevOps practices and reliable server infrastructure hosted in the cloud (Amazon AWS, Terraform, infrastructure as code)
+* Software development with .NET and the C# programming language
 
 Outside of engineering, I enjoy reading books, hiking, and racing anything I can. That includes skis, rollerblades, karts, and sim racing cars. One day, I would like to participate in a real-world endurance race on the Nordschleife circuit in Germany.
 
