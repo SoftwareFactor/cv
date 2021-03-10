@@ -43,7 +43,7 @@ Microsoft, License E124-9428
 Bachelor of Economics studies
 
 ## Work experience
-#### Co-founder & CTO at MindMerit, UAB
+#### Co-founder & CTO at MeritStory
 **Years:** 2020 - present  
 
 **Main responsibilities:**
@@ -55,7 +55,7 @@ Bachelor of Economics studies
 * Design of solution architecture  
 * Hands-on software development  
 
-#### Co-owner & partner at Mediapark, UAB
+#### Co-owner & partner at Mediapark
 **Years:** 2011 - 2020  
 
 **Main responsibilities:**
@@ -87,8 +87,8 @@ Bachelor of Economics studies
 
 **Solution:**
 
-* Our team developed an API for consumption by web and mobile self-care apps.
-* API aggregated information from multiple backend telecom systems and hid all the complexity by providing a simple RESTful interface for mobile app developers to integrate with.
+* Our team developed web services for consumption by web and mobile self-care apps.
+* Web services aggregated information from multiple backend telecom systems and hid all the complexity by providing a simple RESTful interface for mobile app developers to integrate with.
 * We achieved scalability targets by deploying backend solution to Microsoft Azure and configuring auto-scaling of web server instances. Caching strategies were implemented using Azure Redis Cache to reduce the pressure on backend systems and self-care's SQL Azure database.
 
 #### Electric car-sharing service with a mobile app
@@ -106,7 +106,7 @@ Bachelor of Economics studies
 
 **Solution:**
 
-* Our team developed an API for consumption by mobile apps.
+* Our team developed web services for consumption by mobile apps.
 * Integrations were made with automobile fleet control API, credit card payment providers (Braintree and Adyen), accounting software, driver license validation services, etc.
 
 #### Warehouse management system for online retailer
@@ -121,8 +121,8 @@ Bachelor of Economics studies
 
 **Challenges:**
 
-* Many processes happening simultaneously had to fit into a single system: order processing, generation of orders to suppliers, unloading of incoming goods, distribution and shipping.
-* Creating universal solution for integration with external systems such as web stores, route optimization solutions, accounting software, etc.
+* Many processes happening simultaneously had to fit into a single solution: order processing, generation of orders to suppliers, unloading of incoming goods, distribution and shipping.
+* Creating universal solution for integration with external systems such as web stores, route optimization services, accounting software, etc.
 
 **Solution:**
 
@@ -144,7 +144,7 @@ The system provides functionality for the administration of issued phone numbers
 **Challenges:**
 
 * There was a requirement to import large quantities of data from a legacy system.
-* Some of the use cases required processing large quantities of data in a relatively short time.
+* Some of the use cases required processing relatively large quantities of data in a short time.
 
 **Solution:**
 
