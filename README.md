@@ -1,15 +1,20 @@
 Karolis Petreikis
 ====
 
-## Overview
-I am a software solutions architect with over 10 years of hands-on development experience. My areas of specialization include:
+## About me
+Hooked on computers since primary school, I have dabbled in various operating systems and programming languages. Since then, I have worked on a wide variety of software projects: algorithmic trading, investment fund automation, smart warehousing, car-sharing networks, to name a few. I have had my fair share of successes and difficulties, and I have learned a few things along the way.
 
-* Domain-driven design
-* Service-oriented & modular architecture
-* Infrastructure as code (using Terraform) and cloud-based solutions (mostly on Amazon AWS)
-* Microsoft .NET Framework and C#
+I co-founded [MeritStory](https://www.meritstory.com) with a vision of building a strong cross-functional team focused on self-improvement. We design, develop and manage custom software solutions for our clients while focusing on long-term maintainability and business value.
 
-A more detailed list of currently used technologies, frameworks, and practices:
+I personally concentrate on the following areas:
+* Solution design with sustainable architecture (Domain-driven design, modular architecture);
+* DevOps practices and reliable server infrastructure hosted in the cloud (Amazon AWS, Terraform, infrastructure as code);
+* Software development with .NET and C# programming language.
+
+Outside of engineering, I enjoy reading books, hiking, and racing anything I can. That includes skis, rollerblades, karts, and sim racing cars. I have a goal to one day participate in a real-world endurance race on the Nordschleife circuit in Germany.
+
+## List of technologies
+Here is a more detailed list of technologies, frameworks, and practices that I have extensively used in my work:
 
 **Frontend development:** HTML, CSS, JavaScript.  
 **API development:** ASP.NET Core, NServiceBus.  
