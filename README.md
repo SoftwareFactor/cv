@@ -4,7 +4,7 @@ Karolis Petreikis
 ## About me
 I have been hooked on computers since I started dabbling in various operating systems and programming languages in primary school. During my professional career spanning 15 years, I have worked on a wide variety of software projects: algorithmic trading, investment fund automation, smart warehousing, car-sharing networks, to name a few. I have had my fair share of successes and difficulties, and I have learned a few things along the way.
 
-I co-founded [MeritStory](https://www.meritstory.com) with a vision of building a strong cross-functional team focused on self-improvement. We design, develop and manage custom software solutions for our clients while focusing on long-term maintainability and business value.
+I co-founded [MeritStory](https://www.meritstory.com) with a mission of building a strong cross-functional team focused on self-improvement. We design, develop and manage custom software solutions for our clients while focusing on long-term maintainability and business value.
 
 I personally concentrate on the following areas:
 * Solution design with sustainable architecture (Domain-driven design, modular architecture);
