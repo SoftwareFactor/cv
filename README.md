@@ -2,16 +2,16 @@ Karolis Petreikis
 ====
 
 ## About me
-I have been hooked on computers since I started dabbling in various operating systems and programming languages in primary school. During my professional career spanning 15 years, I have worked on a wide variety of software projects: algorithmic trading, investment fund automation, smart warehousing, car-sharing networks, to name a few. I have had my fair share of successes and difficulties, and I have learned a few things along the way.
+I have been hooked on computers since I started dabbling in various operating systems and programming languages in primary school. During my professional career spanning 15 years, I have worked on a wide variety of software projects: algorithmic trading, investment fund automation, smart warehousing, car-sharing platforms, to name a few. I have had my fair share of successes and difficulties, and I have learned a few things along the way.
 
 I co-founded [MeritStory](https://www.meritstory.com) with a mission of building a strong cross-functional team focused on self-improvement. We design, develop and manage custom software solutions for our clients while focusing on long-term maintainability and business value.
 
 I personally concentrate on the following areas:
 * Solution design with sustainable architecture (Domain-driven design, modular architecture);
 * DevOps practices and reliable server infrastructure hosted in the cloud (Amazon AWS, Terraform, infrastructure as code);
-* Software development with .NET and C# programming language.
+* Software development with .NET and the C# programming language.
 
-Outside of engineering, I enjoy reading books, hiking, and racing anything I can. That includes skis, rollerblades, karts, and sim racing cars. I have a goal to one day participate in a real-world endurance race on the Nordschleife circuit in Germany.
+Outside of engineering, I enjoy reading books, hiking, and racing anything I can. That includes skis, rollerblades, karts, and sim racing cars. One day, I would like to participate in a real-world endurance race on the Nordschleife circuit in Germany.
 
 ## List of technologies
 Here is a more detailed list of technologies, frameworks, and practices that I have extensively used in my work:
