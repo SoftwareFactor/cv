@@ -9,7 +9,7 @@ I co-founded [MeritStory](https://www.meritstory.com) with a mission of building
 I personally concentrate on the following areas:
 * Solution design with sustainable architecture (Domain-driven design, modular architecture)
 * DevOps practices and reliable server infrastructure hosted in the cloud (Amazon AWS, Terraform, infrastructure as code)
-* Software development with .NET and the C# programming language.
+* .NET framework and the C# programming language.
 
 Outside of engineering, I enjoy reading books, hiking, and racing anything I can. That includes skis, rollerblades, karts, and sim racing cars. One day, I would like to participate in a real-world endurance race on the Nordschleife circuit in Germany.
 
