@@ -11,7 +11,7 @@ I personally concentrate on the following areas:
 * DevOps practices and reliable server infrastructure hosted in the cloud (Amazon AWS, Terraform, infrastructure as code)
 * .NET framework and the C# programming language.
 
-Outside of engineering, I enjoy reading books, hiking, and racing anything I can. That includes skis, rollerblades, karts, and sim racing cars. One day, I would like to participate in a real-world endurance race on the Nordschleife circuit in Germany.
+Outside of engineering, I enjoy reading books, hiking, and racing anything I can. That includes skis, rollerblades, karts, and sim racing cars. My goal is to one day participate in a real-world endurance race on the Nordschleife circuit in Germany.
 
 ## List of technologies
 Here is a more detailed list of technologies, frameworks, and practices that I have extensively used in my work:
