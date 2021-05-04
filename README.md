@@ -76,6 +76,18 @@ Bachelor of Economics studies
 
 ## Some of my projects
 
+#### Investment management platform for digital assets
+**Years:** 2018 - 2019  
+
+We have developed a platform that is targeted at hedge fund managers who run digital asset investment strategies. It systematizes the whole investment process:
+
+1. Investment inflow processing.
+2. Running algorithmic strategies based on which the target asset allocation is determined.
+3. Generating orders for investing the inflows according to the target asset allocation.
+4. Order execution algorithms for splitting orders into smaller portions and gradually routing them to liquidity providers that offer the best price at the moment.
+
+The platform provides monitoring dashboards and approval mechanisms for multiple roles involved in the process, such as investment manager, trader, compliance manager, back-office personnel.
+
 #### Self-care website and mobile applications for a telecom
 **Years:** 2017 - 2019  
 
